@@ -1,12 +1,29 @@
-@media only screen and (max-width: 768px) {
-    .navbar {
-        background-color: #4285F4;
-    }
-}
-
 html,
 body,
 header,
 .view {
     height: 100%;
+}
+
+.intro-2 {
+    background: url("../../assets/img/empanadas.jpeg")no-repeat center center;
+    background-size: cover;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: yellow;
+}
+
+@media only screen and (max-width: 200px) {
+    #cabecera {
+        background-color: yellow;
+    }
+}
+
+#letras {
+    color: yellow;
 }
