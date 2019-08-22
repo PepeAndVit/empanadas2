@@ -1,3 +1,19 @@
+header {
+    background: url("../../assets/img/empanadas.jpeg")no-repeat center center;
+    background-size: cover;
+}
+
+@media (min-width: 768px) {
+    .view {
+        overflow: visible;
+        margin-top: -56px;
+    }
+}
+
+.navbar {
+    z-index: 1;
+}
+
 html,
 body,
 header,
@@ -5,25 +21,17 @@ header,
     height: 100%;
 }
 
-.intro-2 {
-    background: url("../../assets/img/empanadas.jpeg")no-repeat center center;
-    background-size: cover;
+#titulo {
+    text-align: center;
+    font-family: Arial Black;
+    font-weight: bold;
+    font-size: 30px;
+    color: #ff0;
 }
 
-.navbar {
-    background-color: transparent;
-}
-
-.top-nav-collapse {
-    background-color: yellow;
-}
-
-@media only screen and (max-width: 200px) {
-    #cabecera {
-        background-color: yellow;
-    }
-}
-
-#letras {
-    color: yellow;
+#subtitulo,
+#texto {
+    color: #AB0707;
+    font-weight: bolder;
+    text-shadow: 1px 1px 2px #fff;
 }
