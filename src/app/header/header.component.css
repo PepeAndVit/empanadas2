@@ -35,3 +35,7 @@ header,
     font-weight: bolder;
     text-shadow: 1px 1px 2px #fff;
 }
+
+a {
+    color: #ff0;
+}

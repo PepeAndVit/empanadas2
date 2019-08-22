@@ -16,6 +16,8 @@ import { HumitasComponent } from './humitas/humitas.component';
 import { PastelesComponent } from './pasteles/pasteles.component';
 import { OtrosComponent } from './otros/otros.component';
 import { PaisesComponent } from './components/paises/paises.component';
+import { BodyComponent } from './body/body.component';
+import { SubmenuComponent } from './submenu/submenu.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,9 @@ import { PaisesComponent } from './components/paises/paises.component';
     HumitasComponent,
     PastelesComponent,
     OtrosComponent,
-    PaisesComponent
+    PaisesComponent,
+    BodyComponent,
+    SubmenuComponent
   ],
   imports: [
     BrowserModule,
