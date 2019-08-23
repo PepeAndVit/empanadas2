@@ -3,9 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-empanadas-ecuador',
   template: `
-    <p>
-      empanadas-ecuador works!
-    </p>
+    <img src="../../assets/img/bandera ecuador.png">
   `,
   styles: []
 })

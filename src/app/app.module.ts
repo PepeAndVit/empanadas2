@@ -19,11 +19,6 @@ import { PaisesComponent } from './components/paises/paises.component';
 import { FooterComponent } from './footer/footer.component';
 import { BodyComponent } from './body/body.component';
 import { SubmenuComponent } from './submenu/submenu.component';
-import { ColombiaComponent } from './empanadas/colombia.component';
-import { PeruComponent } from './empanadas/peru.component';
-import { EcuadorComponent } from './empanadas/ecuador.component';
-import { ParaguayComponent } from './empanadas/paraguay.component';
-import { BoliviaComponent } from './empanadas/bolivia.component';
 import { EmpanadasColombiaComponent } from './empanadas/empanadas-colombia.component';
 import { EmpanadasPeruComponent } from './empanadas/empanadas-peru.component';
 import { EmpanadasEcuadorComponent } from './empanadas/empanadas-ecuador.component';
@@ -40,8 +35,6 @@ import { HumitasEcuadorComponent } from './humitas/humitas-ecuador.component';
 import { HumitasParaguayComponent } from './humitas/humitas-paraguay.component';
 import { HumitasBoliviaComponent } from './humitas/humitas-bolivia.component';
 import { PastelesColombiaComponent } from './pasteles/pasteles-colombia.component';
-import { PastelePeruComponent } from './pasteles/pastele-peru.component';
-import { PasteleEcuadorComponent } from './pasteles/pastele-ecuador.component';
 import { PastelesParaguayComponent } from './pasteles/pasteles-paraguay.component';
 import { PastelesBoliviaComponent } from './pasteles/pasteles-bolivia.component';
 import { PastelesPeruComponent } from './pasteles/pasteles-peru.component';
@@ -51,6 +44,11 @@ import { OtrosPeruComponent } from './otros/otros-peru.component';
 import { OtrosEcuadorComponent } from './otros/otros-ecuador.component';
 import { OtrosParaguayComponent } from './otros/otros-paraguay.component';
 import { OtrosBoliviaComponent } from './otros/otros-bolivia.component';
+import { EmpanadasMundoComponent } from './empanadas/empanadas-mundo.component';
+import { ArepasMundoComponent } from './arepas/arepas-mundo.component';
+import { HumitasMundoComponent } from './humitas/humitas-mundo.component';
+import { PastelesMundoComponent } from './pasteles/pasteles-mundo.component';
+import { OtrosMundoComponent } from './otros/otros-mundo.component';
 
 @NgModule({
   declarations: [
@@ -65,11 +63,6 @@ import { OtrosBoliviaComponent } from './otros/otros-bolivia.component';
     FooterComponent,
     BodyComponent,
     SubmenuComponent,
-    ColombiaComponent,
-    PeruComponent,
-    EcuadorComponent,
-    ParaguayComponent,
-    BoliviaComponent,
     EmpanadasColombiaComponent,
     EmpanadasPeruComponent,
     EmpanadasEcuadorComponent,
@@ -86,8 +79,6 @@ import { OtrosBoliviaComponent } from './otros/otros-bolivia.component';
     HumitasParaguayComponent,
     HumitasBoliviaComponent,
     PastelesColombiaComponent,
-    PastelePeruComponent,
-    PasteleEcuadorComponent,
     PastelesParaguayComponent,
     PastelesBoliviaComponent,
     PastelesPeruComponent,
@@ -96,7 +87,12 @@ import { OtrosBoliviaComponent } from './otros/otros-bolivia.component';
     OtrosPeruComponent,
     OtrosEcuadorComponent,
     OtrosParaguayComponent,
-    OtrosBoliviaComponent
+    OtrosBoliviaComponent,
+    EmpanadasMundoComponent,
+    ArepasMundoComponent,
+    HumitasMundoComponent,
+    PastelesMundoComponent,
+    OtrosMundoComponent
   ],
   imports: [
     BrowserModule,
