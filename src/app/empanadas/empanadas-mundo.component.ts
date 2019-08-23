@@ -24,6 +24,7 @@ import { Component, OnInit } from '@angular/core';
     <span class="sr-only">Next</span>
   </a>
 </div>  `,
+
   styles: []
 })
 export class EmpanadasMundoComponent implements OnInit {
