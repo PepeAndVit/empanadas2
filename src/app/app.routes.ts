@@ -4,7 +4,6 @@ import { ArepasComponent } from './arepas/arepas.component';
 import { HumitasComponent } from './humitas/humitas.component';
 import { PastelesComponent } from './pasteles/pasteles.component';
 import { OtrosComponent } from './otros/otros.component';
-import { BodyComponent } from './body/body.component';
 
 const APP_ROUTES: Routes = [
     { path: 'empanadas', component: EmpanadasComponent },
