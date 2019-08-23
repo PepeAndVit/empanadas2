@@ -3,9 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-empanadas-mundo',
   template: `
-    <p>
-      empanadas-mundo works!
-    </p>
+<p>HOlaAntoñito ¬¬
   `,
   styles: []
 })
