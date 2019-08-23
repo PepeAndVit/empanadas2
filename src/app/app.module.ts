@@ -44,6 +44,11 @@ import { OtrosPeruComponent } from './otros/otros-peru.component';
 import { OtrosEcuadorComponent } from './otros/otros-ecuador.component';
 import { OtrosParaguayComponent } from './otros/otros-paraguay.component';
 import { OtrosBoliviaComponent } from './otros/otros-bolivia.component';
+import { EmpanadasMundoComponent } from './empanadas/empanadas-mundo.component';
+import { ArepasMundoComponent } from './arepas/arepas-mundo.component';
+import { HumitasMundoComponent } from './humitas/humitas-mundo.component';
+import { PastelesMundoComponent } from './pasteles/pasteles-mundo.component';
+import { OtrosMundoComponent } from './otros/otros-mundo.component';
 
 @NgModule({
   declarations: [
@@ -58,7 +63,6 @@ import { OtrosBoliviaComponent } from './otros/otros-bolivia.component';
     FooterComponent,
     BodyComponent,
     SubmenuComponent,
-    ColombiaComponent,
     EmpanadasColombiaComponent,
     EmpanadasPeruComponent,
     EmpanadasEcuadorComponent,
@@ -83,7 +87,12 @@ import { OtrosBoliviaComponent } from './otros/otros-bolivia.component';
     OtrosPeruComponent,
     OtrosEcuadorComponent,
     OtrosParaguayComponent,
-    OtrosBoliviaComponent
+    OtrosBoliviaComponent,
+    EmpanadasMundoComponent,
+    ArepasMundoComponent,
+    HumitasMundoComponent,
+    PastelesMundoComponent,
+    OtrosMundoComponent
   ],
   imports: [
     BrowserModule,
