@@ -1,0 +1,17 @@
+footer {
+    background-color: rgb(243, 237, 148);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+p {
+    color: rgb(129, 14, 49);
+    font-weight: bolder;
+}
+
+a {
+    color: rgb(129, 14, 49);
+    font-weight: bolder;
+    text-align: center;
+}
