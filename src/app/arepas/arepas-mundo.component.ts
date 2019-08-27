@@ -14,7 +14,7 @@ import { Component, OnInit } from '@angular/core';
 
 <!-- Card image -->
 <div class="view view-cascade overlay">
-  <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(147).jpg" alt="Card image cap">
+  <img  class="card-img-top" src="../../assets/img/img-arepas/AREPA QUESO CERCA.jpg" alt="Card image cap">
   <a>
     <div class="mask rgba-white-slight"></div>
   </a>
@@ -28,10 +28,9 @@ import { Component, OnInit } from '@angular/core';
   <!-- Title -->
   <h4 class="font-weight-bold card-title">Cheat day inspirations</h4>
   <!-- Text -->
-  <p class="card-text">Ut enim ad minima veniam, quis nostrum exercitationem 
+  <p class="card-text">Ut enim ad minima veniam, quis nostrum exercitationem
   ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi.</p>
   <!-- Button -->
-  
 
 </div>
 
@@ -49,7 +48,7 @@ import { Component, OnInit } from '@angular/core';
 
 <!-- Card image -->
 <div class="view view-cascade overlay">
-  <img  class="card-img-top" src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(147).jpg" alt="Card image cap">
+  <img  class="card-img-top" src="../../assets/img/img-arepas/AREPA QUESO CERCA.jpg" alt="Card image cap">
   <a>
     <div class="mask rgba-white-slight"></div>
   </a>
@@ -63,7 +62,7 @@ import { Component, OnInit } from '@angular/core';
   <!-- Title -->
   <h4 class="font-weight-bold card-title">Cheat day inspirations</h4>
   <!-- Text -->
-  <p class="card-text">Ut enim ad minima veniam, quis nostrum exercitationem 
+  <p class="card-text">Ut enim ad minima veniam, quis nostrum exercitationem
   ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi.</p>
 
 </div>
