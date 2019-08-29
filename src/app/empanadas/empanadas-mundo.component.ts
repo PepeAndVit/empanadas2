@@ -33,7 +33,7 @@ import { Component, OnInit } from '@angular/core';
   </a>
 </div>
       </div>
-      <br>
+  <br>
       <div class="col-md-12">
       <div id="carouselExampleControls2" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
