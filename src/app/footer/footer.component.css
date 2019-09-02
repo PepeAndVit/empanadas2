@@ -1,16 +1,16 @@
 footer {
-    background-color: rgb(243, 237, 148);
+    background-color: white;
     bottom: 0px;
     width: 100%;
 }
 
 p {
-    color: rgb(129, 14, 49);
+    color: firebrick;
     font-weight: bolder;
 }
 
 a {
-    color: rgb(129, 14, 49);
+    color: firebrick;
     font-weight: bolder;
     text-align: center;
 }
