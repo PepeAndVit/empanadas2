@@ -27,7 +27,9 @@
 
 #tabla {
     margin: auto;
-    background-position: -10px -90px;
+    background-position: 0px -90px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h4 {
