@@ -24,3 +24,27 @@
 .fadeIn {
     animation-name: fadeIn;
 }
+
+#tabla {
+    margin: auto;
+    background-position: -10px -90px;
+}
+
+h4 {
+    text-align: center;
+    color: #ff0;
+}
+
+td {
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    border: 1px black solid;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
+
+#Opcional {
+    text-align: right;
+    color: white;
+    font-size: 12px;
+}
