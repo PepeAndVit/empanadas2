@@ -10,15 +10,15 @@ import { Component, OnInit } from '@angular/core';
     <div class="carousel-item active">
       <img class="d-block w-100" src="../../assets/img/img-empanadas/EMPANADA NO SE 1.JPG" alt="First slide">
       <div class="carousel-caption">
-        <h3>Chania</h3>
-        <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+        <h3>Empanada Peruana</h3>
+        <p>Rellenas de carne de res</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="../../assets/img/empanadas.jpeg" alt="Second slide">
       <div class="carousel-caption">
-        <h3>Chania</h3>
-        <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+        <h3>Empanada Colombiana</h3>
+        <p>Empanada para desgustar o picar, hechas de harina de trigo o maíz</p>
       </div>
     </div>
     <div class="carousel-item">
@@ -29,17 +29,17 @@ import { Component, OnInit } from '@angular/core';
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="../../assets/img/img-empanadas/IMG_4098.jpg" alt="Second slide">
+      <img class="d-block w-100" src="../../assets/img/img-empanadas/IMG_4098.JPG" alt="Second slide">
       <div class="carousel-caption">
         <h3>Chania</h3>
         <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="../../assets/img/img-empanadas/IMG_4103.jpg" alt="Third slide">
+      <img class="d-block w-100" src="../../assets/img/img-empanadas/IMG_4103.JPG" alt="Third slide">
       <div class="carousel-caption">
-        <h3>Chania</h3>
-        <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+        <h3>Empanada Boliviana</h3>
+        <p>Rica empanada con todos los sabores de bolivia</p>
       </div>
     </div>
   </div>
