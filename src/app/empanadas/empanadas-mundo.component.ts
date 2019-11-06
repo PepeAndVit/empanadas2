@@ -15,7 +15,7 @@ import { Component, OnInit } from '@angular/core';
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="../../assets/img/img-empanadas/EMPANADAS 222.JPG" alt="Second slide">
+      <img class="d-block w-100" src="../../assets/img/empanadas.jpeg" alt="Second slide">
       <div class="carousel-caption">
         <h3>Chania</h3>
         <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
