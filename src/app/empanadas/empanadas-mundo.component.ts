@@ -24,8 +24,8 @@ import { Component, OnInit } from '@angular/core';
     <div class="carousel-item">
       <img class="d-block w-100" src="../../assets/img/img-empanadas/EMPANADAS 222.jpg" alt="Third slide">
       <div class="carousel-caption">
-        <h3>Chania</h3>
-        <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+        <h3>Empanadas</h3>
+        <p>Buenas empanadas y muy sabrosas</p>
       </div>
     </div>
     <div class="carousel-item">
